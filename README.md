@@ -5,3 +5,4 @@ Simula um simples sistema de contas bancárias com operações como: Trasnferên
 Todas as operaçõe podem ser feitas por conta corrente, poupança e salário.
 
 Para visualizar basta clonar o repositório e rodar com o Node.js.
+Obs: As duas pastas são etapas do curso, caso queira ver o funcionamento final basta rodar apenas o ByteBank2.
